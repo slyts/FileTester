@@ -3,6 +3,7 @@
 #include <string>
 #include <vector>
 
+
 using namespace std;
 
 void fileParser(vector<string>& lines, string file_name, bool& check)
@@ -25,7 +26,7 @@ void fileParser(vector<string>& lines, string file_name, bool& check)
 
 int main()
 {
-	setlocale(LC_ALL, "ru");
+	setlocale(LC_ALL, "Russian.UTF-8");
 
 	int counter = 0;
 	int user_answer = 0;
