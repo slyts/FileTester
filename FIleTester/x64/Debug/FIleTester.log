@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\1234\Desktop\Vova\FIleTester\main\main.cpp(25,1): warning C4715: fileParser: значение возвращается не при всех путях выполнения
+  FIleTester.vcxproj -> C:\Users\1234\Desktop\Vova\FIleTester\x64\Debug\FIleTester.exe
